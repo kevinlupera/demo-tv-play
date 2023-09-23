@@ -2,7 +2,32 @@
     "tv": [
         {
             "id": "1",
-            "name": "",
+            "name": "start-plus",
+            "image": "https://megadeportes.xyz/logo-starplus.png",
+            "mpd": "https://1134-vos.dtvott.com/DASH/manifest.mpd",
+            "key": "3303b4c6982f381ea9e309009fbb3f27",
+            "key2": "a7fd49808f890c2500bf2180aaf42307"
+        },
+        {
+            "id": "2",
+            "name": "start-plus",
+            "image": "https://megadeportes.xyz/logo-starplus.png",
+            "mpd": "https://1134-vos.dtvott.com/DASH/manifest.mpd",
+            "key": "3303b4c6982f381ea9e309009fbb3f27",
+            "key2": "a7fd49808f890c2500bf2180aaf42307"
+        },
+        {
+            "id": "3",
+            "name": "start-plus",
+            "image": "https://megadeportes.xyz/logo-starplus.png",
+            "mpd": "https://1134-vos.dtvott.com/DASH/manifest.mpd",
+            "key": "3303b4c6982f381ea9e309009fbb3f27",
+            "key2": "a7fd49808f890c2500bf2180aaf42307"
+        },
+        {
+            "id": "4",
+            "name": "start-plus",
+            "image": "https://megadeportes.xyz/logo-starplus.png",
             "mpd": "https://1134-vos.dtvott.com/DASH/manifest.mpd",
             "key": "3303b4c6982f381ea9e309009fbb3f27",
             "key2": "a7fd49808f890c2500bf2180aaf42307"
